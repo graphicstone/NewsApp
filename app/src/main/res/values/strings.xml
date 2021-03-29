@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="what_the_buzz">What\'s\nthe buzz</string>
+    <string name="see_full_news">See full News</string>
+    <string name="news_image">News Image</string>
+    <string name="tap_to_move_nto_view_nnews_list">Tap to move\nto view\nNews List</string>
+    <string name="author_not_available">Author Not Available</string>
+    <string name="title_not_available">Title Not Available</string>
+    <string name="desc_not_available">Description Not Available</string>
+    <string name="url_not_available">URL Not Available</string>
+    <string name="image_url_not_available">Image URL Not Available</string>
+    <string name="published_not_available">Published Date Not Available</string>
+    <string name="content_not_available">Content Not Available</string>
+    <string name="close">Close</string>
+</resources>
